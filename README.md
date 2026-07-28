@@ -3,7 +3,7 @@
 ## 🔗 專案連結
 * **Live Demo 線上體驗**: [[點擊這裡立即使用](https://linkedinadvisorweb.onrender.com)]
 
-## 🛠️ 技術棧 (Tech Stack)
+## 🛠️ 技術面
 * **前端介面**: Gradio (Web UI 框架)
 * **後端語言**: Python
 * **AI 模型**: Llama-3.3-70b (via Groq API)
