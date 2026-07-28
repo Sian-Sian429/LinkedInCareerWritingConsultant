@@ -1,4 +1,4 @@
-# 💼 LinkedIn 職涯寫作顧問 (LinkedIn Post Generator)
+# 💼 LinkedIn 職涯寫作顧問 (LinkedIn Career Writing Consultant)
 這是一個基於生成式 AI 的 Web 應用程式，旨在協助專業人士將職場經驗與日常挑戰，自動轉化為具備啟發性且結構完整的 LinkedIn 草稿貼文。
 ## 🔗 專案連結: [[點擊這裡立即使用](https://linkedinadvisorweb.onrender.com)]
 
