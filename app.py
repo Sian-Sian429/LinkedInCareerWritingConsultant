@@ -33,7 +33,7 @@ def linkedin_post(prompt):
 
 # Gradio 網頁介面設計
 with gr.Blocks(title="LinkedIn職涯寫作顧問") as demo:
-    gr.Markdown("## 💼 LinkedIn 職涯寫作顧問 (LinkedIn Post Generator)")
+    gr.Markdown("## 💼 LinkedIn 職涯寫作顧問 (LinkedIn Career Writing Consultant)")
     gr.Markdown("輸入你在職場、實習、課業中遇到的情境，我會幫你轉化成 LinkedIn 風格的反思貼文 ✍️")
 
     with gr.Row():
